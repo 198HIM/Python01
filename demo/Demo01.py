@@ -3,3 +3,5 @@
 arr = ["a", "b", "c", "d", "e"]
 for i in range(0, len(arr)):
     print(arr[i])
+
+    print("abc")
